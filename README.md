@@ -13,7 +13,7 @@ El proyecto aborda la pregunta de investigación transitando por tres épocas de
 - **Hallazgo Principal (Plot Twist):** Al usar *Causal Forests*, el algoritmo ignoró los cortes clásicos de ingreso y edad, revelando que la variable determinante para maximizar el beneficio del plan es la **tenencia de vivienda propia**.
 
 ## 📊 Visualización del Descubrimiento Causal
-![Árbol Causal 401k](graficos_png/arbol_causal_401k.png)
+![Árbol Causal 401k](arbol_causal_401k.png)
 
 ## 📁 Estructura del Repositorio
 - `analisis_401k.ipynb`: Cuaderno principal con el pipeline de datos completo.
